@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello! 👋
+
+I'm Izy, a game developer based in the United States.
+I aim to design and build a story/fighting game.
 
 <!--
 **izy101/izy101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
