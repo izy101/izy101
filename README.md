@@ -4,13 +4,13 @@
 
 I'm Izabella, a game developer based in the United States.
 
-###Education
+Education:
 Game Development Bachelors of Science
 
-###Work Experience
+Work Experience:
 Game Technician @ Scene75
 
-###Projects
+Projects:
 Still in progress...
 
 
