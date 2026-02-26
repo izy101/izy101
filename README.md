@@ -1,7 +1,5 @@
 ## Hello! 👋
 
-Izabella Sapp Gonzalez
-
 I'm Izabella, a game developer based in the United States.
 
 Education:
