@@ -7,6 +7,7 @@ Game Development Bachelors of Science
 
 Work Experience:
 Game Technician @ Scene75
+SDE Intern @ Amazon Web Services
 
 Projects:
 Still in progress...
